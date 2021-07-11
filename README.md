@@ -1,6 +1,6 @@
 # Dransomware
 
-## Dransomware is USB Rubber Ducky Script ransomware which will encrypt data without root privileges in 30 sec's.
+## Dransomware is USB Rubber Ducky Script with ransomware which will encrypt user's data without root privileges in 30 sec's.
 
 * Deploy Dransomware, negotiate with victim and acquire ransom in exchange of private key.
 * Tested on Kali linux and Parrot OS.
@@ -18,4 +18,3 @@
 4. Deploying Ransomware.
 5. Autostarting service on opening terminal with shell (bash and zsh).
 6. Entering Message.
-
