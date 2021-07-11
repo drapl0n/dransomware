@@ -1,5 +1,14 @@
 # Dransomware
 
+## About:
+* Title: Dransomware
+* Description: Ransomware which encrypts users data without root privileges
+* AUTHOR: drapl0n
+* Version: 1.0
+* Category: Ransomware
+* Target: GNU/Linux
+* Attackmodes: HID
+
 ## Dransomware is USB Rubber Ducky Script with ransomware which will encrypt user's data without root privileges in 30 sec's.
 
 * Deploy Dransomware, negotiate with victim and acquire ransom in exchange of private key.
