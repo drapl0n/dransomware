@@ -18,3 +18,6 @@
 4. Deploying Ransomware.
 5. Autostarting service on opening terminal with shell (bash and zsh).
 6. Entering Message.
+
+#### Support me if you like my work:
+* https://twitter.com/drapl0n
