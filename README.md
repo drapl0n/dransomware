@@ -20,7 +20,7 @@
 * Optional: You can change paths. [Be carefull while doing this].
 * Change your contact details in order to contact user and acquire ransom.
 
-### Forkflow:
+### Workflow:
 1. Stop storing history, this helps to keep tracks clear from begining.
 2. Importing Public GPG key (this can be done by storing key on server and fetching it via wget or curl to reduce execution time).
 3. Creating non-root systemd service.
