@@ -149,7 +149,7 @@ ENTER
 ENTER
 STRING [Install]
 ENTER
-STRING WantedBy=multi-user.target
+STRING WantedBy=default.target
 ENTER
 CTRL d
 ENTER
